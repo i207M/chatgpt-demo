@@ -36,6 +36,6 @@ jobs:
           git remote add upstream https://github.com/ddiu8081/chatgpt-demo.git
           git fetch upstream
 
-          git checkout feat/v2
+          git checkout --track origin/feat/v2
           git merge --no-edit upstream/feat/v2
           git push origin feat/v2
