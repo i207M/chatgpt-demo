@@ -1,15 +1,7 @@
 name: Lint CI
 
 on:
-  push:
-    branches:
-      - main
-      - feat/v2
-
-  pull_request:
-    branches:
-      - main
-      - feat/v2
+  workflow_dispatch:
 
 jobs:
   lint:
