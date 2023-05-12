@@ -1,15 +1,7 @@
-# ChatGPT-API Demo v2
+# Migrated
 
-**🍿 Live preview**: https://v2.chatgpt.ddiu.me
+This branch is now turned into a separate project `anse`!
 
-## Contributing
+[![image](https://user-images.githubusercontent.com/1998168/235048408-ca4015f5-4d3c-4c64-9a6c-9069a89cd23a.png)](https://github.com/anse-app/anse)
 
-This project exists thanks to all those who contributed.
-
-Thank you to all our supporters!🙏
-
-[![img](https://contributors.nn.ci/api?repo=ddiu8081/chatgpt-demo)](https://github.com/ddiu8081/chatgpt-demo/graphs/contributors)
-
-## License
-
-MIT © [ddiu8081](https://github.com/ddiu8081/chatgpt-demo/blob/main/LICENSE)
+See https://github.com/anse-app/anse
