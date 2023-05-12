@@ -1,8 +1,7 @@
 name: build_docker
 
 on:
-  push:
-    branches: [feat/v2]
+  workflow_dispatch:
 
 jobs:
   build_docker:
